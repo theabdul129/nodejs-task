@@ -12,6 +12,13 @@ For development, you will only need Node.js and a node global package npm instal
     $ cd nodejs-task
     $ npm install
 
-## Running the project
+## Running the project with express
 
     $ node server.js
+server will start running on port 3900,
+    
+## Running the project with streams
+
+$ node streams.js
+
+server will start running on port 3800,
