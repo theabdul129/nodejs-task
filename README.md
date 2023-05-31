@@ -8,8 +8,8 @@ For development, you will only need Node.js and a node global package npm instal
 
 ## Install
 
-    $ git clone https://github.com/YOUR_USERNAME/PROJECT_TITLE
-    $ cd PROJECT_TITLE
+    $ git clone https://github.com/theabdul129/nodejs-task.git
+    $ cd nodejs-task
     $ npm install
 
 ## Running the project
