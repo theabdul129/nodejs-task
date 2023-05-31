@@ -3,7 +3,7 @@ A specific route that will extract the address and title from the query string
 
 For example
 
-/I/want/title/?address=yahoo.com&address=www.dawn.com/events&address=meta.com
+{{url}}/I/want/title/?address=yahoo.com&address=www.dawn.com/events&address=meta.com
 
 The above url will return the below out put
 - yahoo.com - "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos"
