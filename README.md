@@ -1,6 +1,11 @@
 # nodejs-task
 A specific route that will extract the address and title from the query string
-
+For example
+/I/want/title/?address=yahoo.com&address=www.dawn.com/events&address=meta.com
+The above url will return the below out put
+- yahoo.com - "Yahoo | Mail, Weather, Search, Politics, News, Finance, Sports & Videos"
+- www.dawn.com/events - "Events - DAWN.COM - DAWN.COM"
+- meta.com - "Meta - Shop VR Headsets & Smart Glasses"
 ---
 ## Requirements
 
